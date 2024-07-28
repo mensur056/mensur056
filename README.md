@@ -41,7 +41,7 @@
 
 <i>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">from Azerbaijan.</i>
   
-<i>:telescope: I study at Azernaijan Oil and Industry university. My occupation is Mechatronics and Robotics engineering </i>
+<i>:telescope: I study at Azerbaijan Oil and Industry university. My occupation is Mechatronics and Robotics engineering </i>
 </div>
 
 - :seedling: Learning another language.
